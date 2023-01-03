@@ -7,11 +7,12 @@ Front-end developer with practical experience building and maintaining responsiv
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 😊 I am looking for help with open source projects, hackathons, and intermediate frontend opportunities.
+- 👩‍💻 Currently studying to become a full-stack software engineer via the ALX Software Engineering Program.
+- 😊 Looking for help with open source projects, hackathons, and intermediate frontend opportunities.
 - 💼 Job interests: Frontend Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1wRcoLVvfkTw9GF6j2nXuI_gtWlFb-P7f/view?usp=sharing) and contact me by emailing okwudirejoy@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1wRcoLVvfkTw9GF6j2nXuI_gtWlFb-P7f/view?usp=share_link) and contact me by emailing okwudirejoy@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizycodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Chizycodes's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizycodes&langs_count=8&layout=compact&hide_border=true" alt="Chizycodes's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizycodes&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizycodes&langs_count=8&layout=compact&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> |
 | ------------- | ------------- |
