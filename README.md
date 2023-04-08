@@ -7,10 +7,10 @@ Front-end developer with practical experience building and maintaining responsiv
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 👩‍💻 Currently studying to become a full-stack software engineer via the ALX Software Engineering Program.
-- 😊 Looking for help with open source projects, hackathons, and intermediate frontend opportunities.
-- 💼 Job interests: Frontend Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1wRcoLVvfkTw9GF6j2nXuI_gtWlFb-P7f/view?usp=share_link) and contact me by emailing okwudirejoy@gmail.com.
+- 👩‍💻 Currently pursuing full-stack software engineering via the ALX Software Engineering Program.
+- 🌐 Seeking opportunities to contribute to open source projects and participate in hackathons.
+- 💼 Interested in roles as a Frontend Engineer, Software Developer, Web3 Developer.
+- 📫 [Check out my resume](https://drive.google.com/file/d/1-CkkUjreDA7qwx-C7dKz-IS0545km4K5/view?usp=share_link) and feel free to contact me at okwudirejoy@gmail.com.
 
 ---
 
