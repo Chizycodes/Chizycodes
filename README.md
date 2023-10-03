@@ -13,5 +13,5 @@ Software developer with practical experience building and maintaining responsive
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizycodes&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizycodes&langs_count=8&layout=compact&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizycodes&show_icons=true&include_all_commits=false&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizycodes&langs_count=8&layout=compact&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> |
 | ------------- | ------------- |
