@@ -1,9 +1,10 @@
 # Hello there; welcome 👋🏾
 
-![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/My%20Resume-4285F4)](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyokwudire) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chizycodes)
 <br/>
+
 Hello! I'm Joy Okwudire, a passionate software developer with a focus on building responsive, user-focused applications using modern technologies. I specialize in JavaScript, React.js, Next.js, Typescript, and TailwindCSS. Currently broadening my expertise to include backend technologies such as Node.js, Express.js, and MongoDB. I thrive in fast-paced environments and love collaborating with teams to create high-quality products.
 <br/>
 
@@ -14,7 +15,7 @@ Hello! I'm Joy Okwudire, a passionate software developer with a focus on buildin
 - 💼 **Areas of Interest:** Frontend Engineering, Software Development, Open Source
 - 🏆 **Achievements:**
   - Worked collaboratively on **[Mint Beat](https://mintbeat.vercel.app/)**; a runner-up project in the [Polygon Bootcamp Hackathon 2022](https://polygon.technology/blog/announcing-the-hackathon-winners-of-polygon-bootcamp-africa).
-- I am a frontend mentor in the [learnable internship program](https://www.genesystechhub.com/learnable) by [Genesys](https://www.genesystechhub.com/)
+- I am a frontend mentor in the [Learnable Internship Program](https://www.genesystechhub.com/learnable) by [Genesys Tech Hub](https://www.genesystechhub.com/)
 <br/>
 
 ## Languages and Tools 🔧
@@ -41,10 +42,9 @@ Hello! I'm Joy Okwudire, a passionate software developer with a focus on buildin
 
 ### Let's Connect:
 - 📧 **Email:** [okwudirejoy@gmail.com](mailto:okwudirejoy@gmail.com)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
 
 Feel free to reach out if you're looking for a dedicated developer who is passionate about creating exceptional user experiences. Let's build something great together!
-
-<br/>
 <br/>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizycodes&show_icons=true&include_all_commits=false&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizycodes&langs_count=8&layout=compact&hide_border=false&count_private=true&theme=chartreuse-dark" alt="Chizycodes's GitHub stats" /> |
