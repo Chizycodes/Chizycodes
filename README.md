@@ -5,16 +5,22 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chizycodes)
 
 
-Hello! I'm Joy Okwudire, a passionate software developer with a focus on building responsive, user-focused applications using modern technologies. I specialize in JavaScript, React.js, Next.js, Typescript, and TailwindCSS. Currently broadening my expertise to include backend technologies such as Node.js, Express.js, and MongoDB. I thrive in fast-paced environments and love collaborating with teams to create high-quality products.
+I'm Joy Okwudire, a passionate software developer with a focus on building responsive, user-focused applications using modern technologies. I specialize in JavaScript, React.js, Next.js, Typescript, and TailwindCSS. Currently broadening my expertise to include backend technologies such as Node.js, Express.js, and MongoDB. I thrive in fast-paced environments and love collaborating with teams to create high-quality products.
+
+<br/>
 
 ## Quick Facts About Me
 
 - 😊 **Pronouns:** She/her
-- 🌐 **Open for Opportunities:** Actively seeking opportunities in software development, open to contributing to open-source projects and participating in hackathons.
-- 💼 **Areas of Interest:** Frontend Engineering, Software Development, Open Source
+- 👩‍🏫 **Frontend Mentor:** Mentoring in the [Learnable Internship Program](https://www.genesystechhub.com/learnable) by [Genesys Tech Hub](https://www.genesystechhub.com/).
+- 💻 **Open Source Contributor:** 
+  - Contributing to the [Accessibility Mentor](https://github.com/YurisCodingClub/accessibility-mentor/) project, dedicated to enhancing digital accessibility and fostering an inclusive online environment.
 - 🏆 **Achievements:**
   - Worked collaboratively on **[Mint Beat](https://mintbeat.vercel.app/)**; a runner-up project in the [Polygon Bootcamp Hackathon 2022](https://polygon.technology/blog/announcing-the-hackathon-winners-of-polygon-bootcamp-africa).
-- I am a frontend mentor in the [Learnable Internship Program](https://www.genesystechhub.com/learnable) by [Genesys Tech Hub](https://www.genesystechhub.com/)
+- 🌐 **Open for Opportunities:** Actively seeking opportunities in software development, open to contributing to open-source projects and participating in hackathons.
+- 💼 **Areas of Interest:** Frontend Engineering, Software Development, Open Source.
+
+<br/>
 
 ## Languages and Tools 🔧
 
@@ -37,11 +43,14 @@ Hello! I'm Joy Okwudire, a passionate software developer with a focus on buildin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br/>
+
 ### Let's Connect:
 - 📧 **Email:** [okwudirejoy@gmail.com](mailto:okwudirejoy@gmail.com)
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
 
 Feel free to reach out if you're looking for a dedicated developer who is passionate about creating exceptional user experiences. Let's build something great together!
+
 <br/>
 <br/>
 
