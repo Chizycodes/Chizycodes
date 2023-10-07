@@ -1,7 +1,7 @@
 # Hello there; welcome 👋🏾
 
-[![Resume](https://img.shields.io/badge/My%20Resume-4285F4)](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyokwudire) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyokwudire)
+[![Resume](https://img.shields.io/badge/My%20Resume-FB542B?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chizycodes)
 
 
