@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyokwudire)
 [![Resume](https://img.shields.io/badge/My%20Resume-FB542B?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1HxbVkhfSqL7sNhhqBoq3Bg430hgeb5zZ/view?usp=sharing)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chizycodes)
 
 
 I'm Joy Okwudire, a passionate software developer with a focus on building responsive, user-focused applications using modern technologies. I specialize in JavaScript, React.js, Next.js, Typescript, and TailwindCSS. Currently broadening my expertise to include backend technologies such as Node.js, Express.js, and MongoDB. I thrive in fast-paced environments and love collaborating with teams to create high-quality products.
